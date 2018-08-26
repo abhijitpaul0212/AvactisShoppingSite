@@ -72,6 +72,7 @@ public class ProductPage extends LoadableComponent<ProductPage>
 		{
 			Log4j.warn("More Flag = 'Y' found, Looking out for Flag = N");
 		}
+		//return new HomePage();
 	}
 	
 	@Step("Adding to cart")
