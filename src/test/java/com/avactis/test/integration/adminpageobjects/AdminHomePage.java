@@ -2,6 +2,7 @@ package com.avactis.test.integration.adminpageobjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.LoadableComponent;
@@ -25,6 +26,12 @@ public class AdminHomePage extends LoadableComponent<AdminHomePage>
 	
 	@FindBy(xpath="//a[@title='Order Info']")
 	WebElement label_orderInfo;
+	
+	@FindBy(xpath="//span[contains(text(),'Admin Name')]")
+	WebElement link_adminName;
+	
+	@FindBy(xpath="//span[contains(text(),'Admin Name')]/ancestor::li//a[@title='Sign Out']")
+	WebElement link_signOut;
 	
 	public AdminHomePage()
 	{
@@ -61,6 +68,14 @@ public class AdminHomePage extends LoadableComponent<AdminHomePage>
 			Screenshot.takeScreenshot("Order link not found");
 			return null;
 		}
+	}
+	
+	public void adminSignOut()
+	{
+		Actions builder = new Actions(Browser.driver());
+		builder.moveToElement(link_adminName).click(link_signOut).build().perform();
+		WaitTool.waitForElementInvisibility(link_signOut, 3, 100);
+		Log4j.info("Admin user sucessfully logged out");
 	}
 
 }

@@ -74,7 +74,7 @@ public class testAvactis
 			ProductPage productList = homePage.goToProductPageUsingMenuAndSubMenu(mainMenuID, subMenuID);
 			if(productList != null)
 			{
-				productList.placeOrder(productList,productID,paymentMethod,shipmentMethod,moreFlag );
+				productList.placeOrder(productList,productID,paymentMethod,shipmentMethod,moreFlag );				
 			}
 		}
 		catch(AssertionError e)
@@ -94,6 +94,7 @@ public class testAvactis
 		{
 			String orderIdFound = adminHomePage.searchOrder(orderId);
 			Assert.assertEquals(orderIdFound, orderId);
+			adminHomePage.adminSignOut();
 		}
 		else
 		{
