@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Avactis Shopping Integration Test">
+
+  <listeners>
+      <!-- listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/-->
+      <listener class-name="com.avactis.test.integration.utilities.TestListener"/>
+  </listeners>
+ 
+  
+  <test name="Test purchasing functionality using product menu">
+  <parameter name="browser" value="CH" />  
+ 		<classes>
+     		<class name="com.avactis.test.integration.tests.testAvactis" ></class>     		
+ 		</classes>
+     </test>   
+     
+</suite> <!-- Suite --> 

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Avactis Shopping Integration Test" duration-ms="59241" started-at="2018-08-26T06:24:25Z" finished-at="2018-08-26T06:25:25Z">
+    <groups>
+      <group name="Purchase">
+        <method signature="testAvactis.testProductPurchase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.avactis.test.integration.tests.testAvactis@4bb4de6a]" name="testProductPurchase" class="com.avactis.test.integration.tests.testAvactis"/>
+      </group> <!-- Purchase -->
+      <group name="Login">
+        <method signature="testAvactis.testStoreSignIn()[pri:0, instance:com.avactis.test.integration.tests.testAvactis@4bb4de6a]" name="testStoreSignIn" class="com.avactis.test.integration.tests.testAvactis"/>
+      </group> <!-- Login -->
+    </groups>
+    <test name="Test purchasing functionality using product menu" duration-ms="59241" started-at="2018-08-26T06:24:25Z" finished-at="2018-08-26T06:25:25Z">
+      <class name="com.avactis.test.integration.tests.testAvactis">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.avactis.test.integration.tests.testAvactis@4bb4de6a]" name="setUp" is-config="true" duration-ms="3268" started-at="2018-08-26T11:54:25Z" finished-at="2018-08-26T11:54:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testStoreSignIn()[pri:0, instance:com.avactis.test.integration.tests.testAvactis@4bb4de6a]" name="testStoreSignIn" duration-ms="45290" started-at="2018-08-26T11:54:29Z" finished-at="2018-08-26T11:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStoreSignIn -->
+        <test-method status="PASS" signature="testProductPurchase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.avactis.test.integration.tests.testAvactis@4bb4de6a]" name="testProductPurchase" duration-ms="3153" depends-on-groups="Login" started-at="2018-08-26T11:55:14Z" data-provider="readDataFromXML" finished-at="2018-08-26T11:55:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-pg1-]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cid24]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DVD]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[cid27]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Kids DVDs]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[CashOnDelivery]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Delivery on Next Business Day]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductPurchase -->
+        <test-method status="PASS" signature="testProductPurchase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.avactis.test.integration.tests.testAvactis@4bb4de6a]" name="testProductPurchase" duration-ms="6245" depends-on-groups="Login" started-at="2018-08-26T11:55:17Z" data-provider="readDataFromXML" finished-at="2018-08-26T11:55:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-pg1-]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cid24]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DVD]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[cid25]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Classic Films]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[108]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[CashOnDelivery]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Delivery on Next Business Day]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductPurchase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.avactis.test.integration.tests.testAvactis@4bb4de6a]" name="tearDown" is-config="true" duration-ms="1082" started-at="2018-08-26T11:55:24Z" finished-at="2018-08-26T11:55:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.avactis.test.integration.tests.testAvactis -->
+    </test> <!-- Test purchasing functionality using product menu -->
+  </suite> <!-- Avactis Shopping Integration Test -->
+</testng-results>

@@ -1,0 +1,206 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.paratus</groupId>
+  <artifactId>AvactisShoppingSite</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <build>
+    <pluginManagement>
+      <plugins>
+       <plugin>
+             <groupId>org.apache.maven.plugins</groupId>
+             <artifactId>maven-compiler-plugin</artifactId>
+             <configuration>
+                  <source>1.8</source>
+                  <target>1.8</target>
+             </configuration>
+        </plugin>
+       <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-surefire-plugin</artifactId>
+          <version>2.19.1</version>
+           <configuration>
+           	  <testFailureIgnore>true</testFailureIgnore>
+              <printSummary>true</printSummary>
+              <argLine>
+                    -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
+                </argLine>
+	          <suiteXmlFiles>
+	            <suiteXmlFile>F:\Studies\MavenWorkspace\AvactisShoppingSite\testNG.xml</suiteXmlFile>
+	          </suiteXmlFiles>
+        	</configuration>
+        	<dependencies>
+                <dependency>
+                    <groupId>org.aspectj</groupId>
+                    <artifactId>aspectjweaver</artifactId>
+                    <version>${aspectj.version}</version>
+                </dependency>
+            </dependencies>
+        </plugin>        
+       <plugin>
+			<groupId>io.qameta.allure</groupId>
+			<artifactId>allure-maven</artifactId>
+			<version>2.9</version>
+			<configuration>
+				<reportVersion>2.4.1</reportVersion>
+				<reportDirectory>allure-report</reportDirectory>
+			</configuration>
+		</plugin>
+      </plugins>
+    </pluginManagement>
+  </build>  
+  <properties>
+    <aspectj.version>1.8.10</aspectj.version>
+    <!-- project.build.sourceEncoding>UTF-8</project.build.sourceEncoding-->
+  </properties>
+  <dependencies>
+    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+	<dependency>
+		<groupId>org.seleniumhq.selenium</groupId>
+		<artifactId>selenium-java</artifactId>
+		<version>3.13.0</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+	<dependency>
+		<groupId>org.testng</groupId>
+		<artifactId>testng</artifactId>
+		<version>6.14.3</version>
+		<scope>compile</scope>
+	</dependency>
+	<dependency>
+			<groupId>org.uncommons</groupId>
+			<artifactId>reportng</artifactId>
+			<version>1.1.4</version>
+			<scope>test</scope>
+			<exclusions>
+				<exclusion>
+					<groupId>org.testng</groupId>
+					<artifactId>testng</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+	<dependency>
+	    <groupId>junit</groupId>
+	    <artifactId>junit</artifactId>
+	    <version>4.12</version>
+	    <scope>test</scope>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/net.sourceforge.jexcelapi/jxl -->
+	<dependency>
+		<groupId>net.sourceforge.jexcelapi</groupId>
+		<artifactId>jxl</artifactId>
+		<version>2.6.12</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/log4j/log4j -->
+	<dependency>
+		<groupId>log4j</groupId>
+		<artifactId>log4j</artifactId>
+		<version>1.2.17</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+	<dependency>
+		<groupId>org.apache.poi</groupId>
+		<artifactId>poi</artifactId>
+		<version>3.17</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+	<dependency>
+	    <groupId>org.apache.poi</groupId>
+	    <artifactId>poi-ooxml</artifactId>
+	    <version>3.17</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-junit</artifactId>
+    <version>3.0.2</version>
+    <scope>test</scope>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-core -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-core</artifactId>
+    <version>3.0.2</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-html -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-html</artifactId>
+    <version>0.2.7</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/io.cucumber/gherkin -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>gherkin</artifactId>
+    <version>5.1.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/io.cucumber/gherkin-jvm-deps -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>gherkin-jvm-deps</artifactId>
+    <version>1.0.4</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/io.cucumber/tag-expressions -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>tag-expressions</artifactId>
+    <version>1.1.1</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-expressions -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-expressions</artifactId>
+    <version>6.0.1</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-api</artifactId>
+    <version>5.2.0</version>
+    <scope>test</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
+<dependency>
+    <groupId>io.qameta.allure</groupId>
+    <artifactId>allure-testng</artifactId>
+    <version>2.0-BETA3</version>
+    <scope>test</scope>
+</dependency>
+<dependency>
+	<groupId>org.aspectj</groupId>
+	<artifactId>aspectjweaver</artifactId>
+	<version>${aspectj.version}</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+<dependency>
+    <groupId>commons-io</groupId>
+    <artifactId>commons-io</artifactId>
+    <version>2.6</version>
+</dependency>	
+</dependencies>
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>org.testng</groupId>
+				<artifactId>testng</artifactId>
+				<version>6.14.3</version>
+			</dependency>
+			<dependency>
+				<groupId>log4j</groupId>
+				<artifactId>log4j</artifactId>
+				<version>1.2.17</version>
+			</dependency>
+			<dependency>
+				<groupId>org.uncommons</groupId>
+				<artifactId>reportng</artifactId>
+				<version>1.1.4</version>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+</project>

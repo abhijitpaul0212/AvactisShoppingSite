@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Avactis Shopping Integration Test]">
+  <parameter name="browser" value="CH"/>
+  <test name="Test purchasing functionality using product menu(failed)">
+    <parameter name="browser" value="CH"/>
+    <classes>
+      <class name="com.avactis.test.integration.tests.TestSingleProductUsingMenu">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testSignIn"/>
+          <include name="setUp"/>
+          <include name="purchaseProduct"/>
+        </methods>
+      </class> <!-- com.avactis.test.integration.tests.TestSingleProductUsingMenu -->
+    </classes>
+  </test> <!-- Test purchasing functionality using product menu(failed) -->
+</suite> <!-- Failed suite [Avactis Shopping Integration Test] -->

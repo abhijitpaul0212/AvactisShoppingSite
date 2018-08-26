@@ -1,0 +1,1 @@
+allure serve F:\Studies\MavenWorkspace\AvactisShoppingSite\allure-results

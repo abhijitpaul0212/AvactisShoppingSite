@@ -1,0 +1,36 @@
+<?xml version = "1.0"?>
+<avactisShoppingTest>
+   <avactisTest testData = "1">
+		<Product_Page_Content>-pg1-</Product_Page_Content>
+		<categoryID_Cid>cid8</categoryID_Cid>  
+		<Product_Category>Computers</Product_Category>
+		<Cid_Sub>cid20</Cid_Sub>
+		<Product_Subcategory>Notebooks</Product_Subcategory>
+		<Pid>11</Pid>
+		<Payment_Method>CashOnDelivery</Payment_Method>
+		<Shipment_Method>Ground Shipping</Shipment_Method>
+		<More_Expected></More_Expected>
+   </avactisTest>
+   <avactisTest testData = "2">
+		<Product_Page_Content>-pg1-</Product_Page_Content>
+		<categoryID_Cid>cid8</categoryID_Cid>  
+		<Product_Category>Computers</Product_Category>
+		<Cid_Sub>cid20</Cid_Sub>
+		<Product_Subcategory>Notebooks</Product_Subcategory>
+		<Pid>11</Pid>
+		<Payment_Method>CashOnDelivery</Payment_Method>
+		<Shipment_Method>Ground Shipping</Shipment_Method>
+		<More_Expected></More_Expected>
+   </avactisTest>
+   <avactisTest testData = "3">
+		<Product_Page_Content>-pg1-</Product_Page_Content>
+		<categoryID_Cid>cid8</categoryID_Cid>  
+		<Product_Category>Computers</Product_Category>
+		<Cid_Sub>cid20</Cid_Sub>
+		<Product_Subcategory>Notebooks</Product_Subcategory>
+		<Pid>11</Pid>
+		<Payment_Method>CashOnDelivery</Payment_Method>
+		<Shipment_Method>Ground Shipping</Shipment_Method>
+		<More_Expected></More_Expected>
+   </avactisTest>
+</avactisShoppingTest>

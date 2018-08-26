@@ -1,0 +1,47 @@
+<?xml version = "1.0"?>
+<avactisShoppingTest>
+   <avactisTest testData = "1">
+		<Product_Page_Content>-pg1-</Product_Page_Content>
+		<categoryID_Cid>cid24</categoryID_Cid>  
+		<Product_Category>DVD</Product_Category>
+		<Cid_Sub>cid25</Cid_Sub>
+		<Product_Subcategory>Classic Films</Product_Subcategory>
+		<Pid>108</Pid>
+		<Payment_Method>CashOnDelivery</Payment_Method>
+		<Shipment_Method>Ground Shipping</Shipment_Method>
+		<More_Expected>Y</More_Expected>
+   </avactisTest>
+   <avactisTest testData = "2">
+		<Product_Page_Content>-pg1-</Product_Page_Content>
+		<categoryID_Cid>cid24</categoryID_Cid>  
+		<Product_Category>DVD</Product_Category>
+		<Cid_Sub>cid25</Cid_Sub>
+		<Product_Subcategory>Classic Films</Product_Subcategory>
+		<Pid>108</Pid>
+		<Payment_Method>CashOnDelivery</Payment_Method>
+		<Shipment_Method>Delivery on Next Business Day</Shipment_Method>
+		<More_Expected>Y</More_Expected>
+   </avactisTest>
+    <avactisTest testData = "3">
+		<Product_Page_Content>-pg1-</Product_Page_Content>
+		<categoryID_Cid>cid24</categoryID_Cid>  
+		<Product_Category>DVD</Product_Category>
+		<Cid_Sub>cid27</Cid_Sub>
+		<Product_Subcategory>Kids DVDs</Product_Subcategory>
+		<Pid>90</Pid>
+		<Payment_Method>CashOnDelivery</Payment_Method>
+		<Shipment_Method>Delivery on Next Business Day</Shipment_Method>
+		<More_Expected>Y</More_Expected>
+   </avactisTest>
+    <avactisTest testData = "4">
+		<Product_Page_Content>-pg1-</Product_Page_Content>
+		<categoryID_Cid>cid24</categoryID_Cid>  
+		<Product_Category>DVD</Product_Category>
+		<Cid_Sub>cid25</Cid_Sub>
+		<Product_Subcategory>Classic Films</Product_Subcategory>
+		<Pid>108</Pid>
+		<Payment_Method>CashOnDelivery</Payment_Method>
+		<Shipment_Method>Delivery on Next Business Day</Shipment_Method>
+		<More_Expected>N</More_Expected>
+   </avactisTest>
+</avactisShoppingTest>
