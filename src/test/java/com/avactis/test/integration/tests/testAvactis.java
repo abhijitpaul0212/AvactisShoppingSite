@@ -50,6 +50,7 @@ public class testAvactis
 	@Test(groups={"Login"})
 	public void testStoreSignIn()
 	{
+		System.out.println("Login test started");
 		homePage.get();	
 		SignInPage signInPage = homePage.doSignOut();	
 		if (signInPage == null)
