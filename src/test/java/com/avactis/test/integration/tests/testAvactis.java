@@ -80,7 +80,7 @@ public class testAvactis
 		catch(AssertionError e)
 		{
 			e.printStackTrace();
-			Assert.fail("Purchase product failed");
+			Assert.fail("Purchase product failed...");
 		}
 	}
 	
