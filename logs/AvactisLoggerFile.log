@@ -2762,3 +2762,431 @@
 2018-08-26 20:29:42,158 INFO  [main] (Log4j.java:14) - Key: ADMIN_PASSWORD : Value: qwerty123
 2018-08-26 20:29:57,821 INFO  [main] (Log4j.java:14) - Order Id found in Admin: 00083
 2018-08-26 20:29:57,821 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testOrderVerficationByAdminUser
+2018-08-26 21:25:28,750 INFO  [main] (Log4j.java:14) - Test will run on: CH
+2018-08-26 21:25:41,327 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 21:25:41,343 INFO  [main] (Log4j.java:14) - Key: ADMIN_URL : Value: http://localhost/avactis/avactis-system/admin/
+2018-08-26 21:25:43,833 INFO  [main] (Log4j.java:14) - 
+2018-08-26 21:25:45,269 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - 
+2018-08-26 21:26:27,366 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 21:26:27,381 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 21:26:31,232 INFO  [main] (Log4j.java:14) - Screnshot taken: target//screenshots//signOut_link_notFound_2018.08.26.21.26.30.png
+2018-08-26 21:26:31,246 WARN  [main] (Log4j.java:20) - No user is presently logged in
+2018-08-26 21:26:31,328 INFO  [main] (Log4j.java:14) - About to click on signIn
+2018-08-26 21:26:36,477 INFO  [main] (Log4j.java:14) - Key: STORE_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 21:26:36,485 INFO  [main] (Log4j.java:14) - Key: STORE_PASSWORD : Value: qwerty123
+2018-08-26 21:26:53,150 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testStoreSignIn
+2018-08-26 21:26:53,472 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_PATH : Value: F:\Studies\MavenWorkspace\AvactisShoppingSite\src\test\resources\data\
+2018-08-26 21:26:53,482 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_XML : Value: AvactisTestData.xml
+2018-08-26 21:26:53,547 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 21:26:57,043 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 21:26:57,192 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 21:26:57,210 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 21:26:57,220 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 21:26:57,230 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 21:26:57,266 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 21:26:57,295 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 21:27:02,103 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 21:27:02,115 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 21:27:05,272 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 21:27:05,401 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 21:27:05,407 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 21:27:05,414 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 21:27:05,422 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 21:27:05,543 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 21:27:05,566 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 21:27:09,670 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 21:27:09,683 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 21:27:12,998 INFO  [main] (Log4j.java:14) - Page Title: Kids DVDs - Avactis Demo Store
+2018-08-26 21:27:13,142 INFO  [main] (Log4j.java:14) - 90 product got added to cart
+2018-08-26 21:27:13,148 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 21:27:13,160 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 21:27:13,174 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 21:27:13,199 INFO  [main] (Log4j.java:14) - Kids DVDs - Avactis Demo Store
+2018-08-26 21:27:13,224 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Kids DVDs - Avactis Demo Store
+2018-08-26 21:27:17,684 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 21:27:17,695 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 21:27:25,306 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 21:27:25,465 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 21:27:25,470 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 21:27:25,476 INFO  [main] (Log4j.java:14) - More Flag = 'N' found
+2018-08-26 21:27:30,401 INFO  [main] (Log4j.java:14) - Expected cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 21:27:30,404 INFO  [main] (Log4j.java:14) - Expected cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 21:27:54,578 INFO  [main] (Log4j.java:14) - Shipping method 'Delivery on Next Business Day' is selected
+2018-08-26 21:27:57,076 INFO  [main] (Log4j.java:14) - Actual cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 21:27:57,081 INFO  [main] (Log4j.java:14) - Actual cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 21:27:57,085 INFO  [main] (Log4j.java:14) - Order got placed succesfully as comparison result is matched
+2018-08-26 21:28:12,184 INFO  [main] (Log4j.java:14) - Place order button is clicked
+2018-08-26 21:28:12,266 INFO  [main] (Log4j.java:14) - Order is placed successfully: 00084
+2018-08-26 21:28:12,275 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 21:28:12,294 INFO  [main] (Log4j.java:14) - Key: ORDER_ID : Value: 00084
+2018-08-26 21:28:12,311 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Avactis Demo Store
+2018-08-26 21:28:22,242 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Shopping Cart
+2018-08-26 21:28:22,264 INFO  [main] (Log4j.java:14) - Key: ADMIN_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 21:28:22,273 INFO  [main] (Log4j.java:14) - Key: ADMIN_PASSWORD : Value: qwerty123
+2018-08-26 21:28:56,272 ERROR [main] (Log4j.java:27) - The name of the testcase failed is :testOrderVerficationByAdminUser
+2018-08-26 21:30:32,175 INFO  [main] (Log4j.java:14) - Test will run on: CH
+2018-08-26 21:30:38,654 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 21:30:38,669 INFO  [main] (Log4j.java:14) - Key: ADMIN_URL : Value: http://localhost/avactis/avactis-system/admin/
+2018-08-26 21:30:39,015 INFO  [main] (Log4j.java:14) - 
+2018-08-26 21:30:40,207 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - 
+2018-08-26 21:31:02,167 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 21:31:02,183 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 21:31:04,771 INFO  [main] (Log4j.java:14) - Screnshot taken: target//screenshots//signOut_link_notFound_2018.08.26.21.31.04.png
+2018-08-26 21:31:04,788 WARN  [main] (Log4j.java:20) - No user is presently logged in
+2018-08-26 21:31:04,850 INFO  [main] (Log4j.java:14) - About to click on signIn
+2018-08-26 21:31:07,672 INFO  [main] (Log4j.java:14) - Key: STORE_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 21:31:07,680 INFO  [main] (Log4j.java:14) - Key: STORE_PASSWORD : Value: qwerty123
+2018-08-26 21:31:24,400 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testStoreSignIn
+2018-08-26 21:31:24,636 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_PATH : Value: F:\Studies\MavenWorkspace\AvactisShoppingSite\src\test\resources\data\
+2018-08-26 21:31:24,651 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_XML : Value: AvactisTestData.xml
+2018-08-26 21:31:24,683 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 21:31:28,059 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 21:31:28,243 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 21:31:28,252 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 21:31:28,268 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 21:31:28,282 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 21:31:28,302 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 21:31:28,334 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 21:31:32,668 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 21:31:32,669 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 21:31:35,935 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 21:31:36,068 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 21:31:36,081 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 21:31:36,088 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 21:31:36,095 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 21:31:36,109 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 21:31:36,140 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 21:31:40,125 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 21:31:40,141 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 21:31:43,513 INFO  [main] (Log4j.java:14) - Page Title: Kids DVDs - Avactis Demo Store
+2018-08-26 21:31:43,693 INFO  [main] (Log4j.java:14) - 90 product got added to cart
+2018-08-26 21:31:43,705 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 21:31:43,713 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 21:31:43,729 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 21:31:43,758 INFO  [main] (Log4j.java:14) - Kids DVDs - Avactis Demo Store
+2018-08-26 21:31:43,773 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Kids DVDs - Avactis Demo Store
+2018-08-26 21:31:47,813 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 21:31:47,825 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 21:31:51,025 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 21:31:51,180 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 21:31:51,186 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 21:31:51,191 INFO  [main] (Log4j.java:14) - More Flag = 'N' found
+2018-08-26 21:31:55,833 INFO  [main] (Log4j.java:14) - Expected cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 21:31:55,849 INFO  [main] (Log4j.java:14) - Expected cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 21:32:02,564 INFO  [main] (Log4j.java:14) - Shipping method 'Delivery on Next Business Day' is selected
+2018-08-26 21:32:04,993 INFO  [main] (Log4j.java:14) - Actual cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 21:32:04,993 INFO  [main] (Log4j.java:14) - Actual cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 21:32:04,993 INFO  [main] (Log4j.java:14) - Order got placed succesfully as comparison result is matched
+2018-08-26 21:32:09,452 INFO  [main] (Log4j.java:14) - Place order button is clicked
+2018-08-26 21:32:14,217 INFO  [main] (Log4j.java:14) - Order is placed successfully: 00085
+2018-08-26 21:32:14,217 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 21:32:14,234 INFO  [main] (Log4j.java:14) - Key: ORDER_ID : Value: 00085
+2018-08-26 21:32:14,265 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Avactis Demo Store
+2018-08-26 21:32:16,530 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Shopping Cart
+2018-08-26 21:32:16,555 INFO  [main] (Log4j.java:14) - Key: ADMIN_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 21:32:16,561 INFO  [main] (Log4j.java:14) - Key: ADMIN_PASSWORD : Value: qwerty123
+2018-08-26 21:32:32,464 INFO  [main] (Log4j.java:14) - Order Id found in Admin: 00085
+2018-08-26 21:32:32,464 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testOrderVerficationByAdminUser
+2018-08-26 21:59:36,032 INFO  [main] (Log4j.java:14) - Test will run on: CH
+2018-08-26 21:59:40,322 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 21:59:40,339 INFO  [main] (Log4j.java:14) - Key: ADMIN_URL : Value: http://localhost/avactis/avactis-system/admin/
+2018-08-26 21:59:40,719 INFO  [main] (Log4j.java:14) - 
+2018-08-26 21:59:41,957 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - 
+2018-08-26 22:00:11,648 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:00:11,664 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:00:14,261 INFO  [main] (Log4j.java:14) - Screnshot taken: target//screenshots//signOut_link_notFound_2018.08.26.22.00.13.png
+2018-08-26 22:00:14,277 WARN  [main] (Log4j.java:20) - No user is presently logged in
+2018-08-26 22:00:14,356 INFO  [main] (Log4j.java:14) - About to click on signIn
+2018-08-26 22:00:17,248 INFO  [main] (Log4j.java:14) - Key: STORE_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 22:00:17,264 INFO  [main] (Log4j.java:14) - Key: STORE_PASSWORD : Value: qwerty123
+2018-08-26 22:00:34,215 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testStoreSignIn
+2018-08-26 22:00:34,482 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_PATH : Value: F:\Studies\MavenWorkspace\AvactisShoppingSite\src\test\resources\data\
+2018-08-26 22:00:34,498 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_XML : Value: AvactisTestData.xml
+2018-08-26 22:00:34,529 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:00:37,956 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:00:38,218 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:00:38,244 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:00:38,270 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:00:38,300 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 22:00:43,669 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:00:43,795 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:00:46,986 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:00:47,199 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:00:47,221 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:00:47,229 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:00:47,248 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 22:00:49,737 INFO  [main] (Log4j.java:14) - Screnshot taken: target//screenshots//signOut_link_notFound_2018.08.26.22.00.49.png
+2018-08-26 22:00:49,737 WARN  [main] (Log4j.java:20) - No user is presently logged in
+2018-08-26 22:00:49,737 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:00:49,753 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 22:00:49,785 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 22:00:52,932 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:00:52,942 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:00:56,253 INFO  [main] (Log4j.java:14) - Page Title: Kids DVDs - Avactis Demo Store
+2018-08-26 22:00:56,505 INFO  [main] (Log4j.java:14) - 90 product got added to cart
+2018-08-26 22:00:56,514 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:00:56,533 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:00:56,544 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 22:00:59,164 INFO  [main] (Log4j.java:14) - Screnshot taken: target//screenshots//signOut_link_notFound_2018.08.26.22.00.58.png
+2018-08-26 22:00:59,164 WARN  [main] (Log4j.java:20) - No user is presently logged in
+2018-08-26 22:00:59,164 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:00:59,212 INFO  [main] (Log4j.java:14) - Kids DVDs - Avactis Demo Store
+2018-08-26 22:00:59,228 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Kids DVDs - Avactis Demo Store
+2018-08-26 22:01:02,288 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:01:02,302 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:01:05,538 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:01:05,711 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:01:05,718 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:01:05,724 INFO  [main] (Log4j.java:14) - More Flag = 'N' found
+2018-08-26 22:01:10,851 INFO  [main] (Log4j.java:14) - Expected cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 22:01:10,867 INFO  [main] (Log4j.java:14) - Expected cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 22:02:07,983 ERROR [main] (Log4j.java:27) - The name of the testcase failed is :testProductPurchase
+2018-08-26 22:02:08,329 WARN  [main] (Log4j.java:20) - The name of the testcase skipped is :testOrderVerficationByAdminUser
+2018-08-26 22:03:46,898 INFO  [main] (Log4j.java:14) - Test will run on: CH
+2018-08-26 22:03:52,206 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 22:03:52,232 INFO  [main] (Log4j.java:14) - Key: ADMIN_URL : Value: http://localhost/avactis/avactis-system/admin/
+2018-08-26 22:03:52,373 INFO  [main] (Log4j.java:14) - 
+2018-08-26 22:03:53,602 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - 
+2018-08-26 22:04:16,390 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:04:16,407 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:04:19,078 INFO  [main] (Log4j.java:14) - Screnshot taken: target//screenshots//signOut_link_notFound_2018.08.26.22.04.18.png
+2018-08-26 22:04:19,078 WARN  [main] (Log4j.java:20) - No user is presently logged in
+2018-08-26 22:04:19,158 INFO  [main] (Log4j.java:14) - About to click on signIn
+2018-08-26 22:04:22,028 INFO  [main] (Log4j.java:14) - Key: STORE_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 22:04:22,045 INFO  [main] (Log4j.java:14) - Key: STORE_PASSWORD : Value: qwerty123
+2018-08-26 22:04:38,314 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testStoreSignIn
+2018-08-26 22:04:38,550 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_PATH : Value: F:\Studies\MavenWorkspace\AvactisShoppingSite\src\test\resources\data\
+2018-08-26 22:04:38,550 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_XML : Value: AvactisTestData.xml
+2018-08-26 22:04:38,597 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:04:41,847 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:04:42,040 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:04:42,049 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:04:42,058 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:04:42,086 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 22:04:42,099 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:04:42,133 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 22:04:42,164 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 22:04:46,153 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:04:46,168 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:04:49,304 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:04:49,446 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:04:49,457 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:04:49,464 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:04:49,475 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 22:04:49,483 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:04:49,543 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 22:04:49,561 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 22:04:53,605 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:04:53,619 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:04:56,847 INFO  [main] (Log4j.java:14) - Page Title: Kids DVDs - Avactis Demo Store
+2018-08-26 22:04:57,015 INFO  [main] (Log4j.java:14) - 90 product got added to cart
+2018-08-26 22:04:57,030 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:04:57,036 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:04:57,044 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 22:04:57,051 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:04:57,071 INFO  [main] (Log4j.java:14) - Kids DVDs - Avactis Demo Store
+2018-08-26 22:04:57,102 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Kids DVDs - Avactis Demo Store
+2018-08-26 22:05:01,263 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:05:01,274 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:05:04,457 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:05:04,614 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:05:04,620 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:05:04,626 INFO  [main] (Log4j.java:14) - More Flag = 'N' found
+2018-08-26 22:05:09,113 INFO  [main] (Log4j.java:14) - Expected cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 22:05:09,113 INFO  [main] (Log4j.java:14) - Expected cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 22:05:15,684 INFO  [main] (Log4j.java:14) - Shipping method 'Delivery on Next Business Day' is selected
+2018-08-26 22:05:18,063 INFO  [main] (Log4j.java:14) - Actual cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 22:05:18,063 INFO  [main] (Log4j.java:14) - Actual cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 22:05:18,082 INFO  [main] (Log4j.java:14) - Order got placed succesfully as comparison result is matched
+2018-08-26 22:05:22,788 INFO  [main] (Log4j.java:14) - Place order button is clicked
+2018-08-26 22:05:27,450 INFO  [main] (Log4j.java:14) - Order is placed successfully: 00086
+2018-08-26 22:05:27,467 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 22:05:27,467 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:05:27,482 INFO  [main] (Log4j.java:14) - Key: ORDER_ID : Value: 00086
+2018-08-26 22:05:27,498 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Avactis Demo Store
+2018-08-26 22:05:30,658 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Shopping Cart
+2018-08-26 22:05:30,678 INFO  [main] (Log4j.java:14) - Key: ADMIN_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 22:05:30,691 INFO  [main] (Log4j.java:14) - Key: ADMIN_PASSWORD : Value: qwerty123
+2018-08-26 22:05:46,994 INFO  [main] (Log4j.java:14) - Order Id found in Admin: 00086
+2018-08-26 22:05:51,811 INFO  [main] (Log4j.java:14) - Admin user sucessfully logged out
+2018-08-26 22:05:51,811 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testOrderVerficationByAdminUser
+2018-08-26 22:07:01,751 INFO  [main] (Log4j.java:14) - Test will run on: CH
+2018-08-26 22:07:06,682 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 22:07:06,700 INFO  [main] (Log4j.java:14) - Key: ADMIN_URL : Value: http://localhost/avactis/avactis-system/admin/
+2018-08-26 22:07:06,841 INFO  [main] (Log4j.java:14) - 
+2018-08-26 22:07:08,047 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - 
+2018-08-26 22:07:31,273 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:07:31,296 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:07:33,985 INFO  [main] (Log4j.java:14) - Screnshot taken: target//screenshots//signOut_link_notFound_2018.08.26.22.07.33.png
+2018-08-26 22:07:34,003 WARN  [main] (Log4j.java:20) - No user is presently logged in
+2018-08-26 22:07:34,081 INFO  [main] (Log4j.java:14) - About to click on signIn
+2018-08-26 22:07:37,087 INFO  [main] (Log4j.java:14) - Key: STORE_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 22:07:37,103 INFO  [main] (Log4j.java:14) - Key: STORE_PASSWORD : Value: qwerty123
+2018-08-26 22:07:53,796 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testStoreSignIn
+2018-08-26 22:07:54,078 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_PATH : Value: F:\Studies\MavenWorkspace\AvactisShoppingSite\src\test\resources\data\
+2018-08-26 22:07:54,078 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_XML : Value: AvactisTestData.xml
+2018-08-26 22:07:54,125 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:07:57,561 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:07:57,745 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:07:57,756 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:07:57,766 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:08:02,848 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:08:02,865 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:08:06,102 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:08:06,227 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:08:06,236 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:08:06,245 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:08:08,778 INFO  [main] (Log4j.java:14) - Screnshot taken: target//screenshots//signOut_link_notFound_2018.08.26.22.08.08.png
+2018-08-26 22:08:08,794 WARN  [main] (Log4j.java:20) - No user is presently logged in
+2018-08-26 22:08:08,794 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:08:08,826 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 22:08:08,857 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 22:08:11,988 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:08:11,999 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:08:15,340 INFO  [main] (Log4j.java:14) - Page Title: Kids DVDs - Avactis Demo Store
+2018-08-26 22:08:15,517 INFO  [main] (Log4j.java:14) - 90 product got added to cart
+2018-08-26 22:08:15,524 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:08:15,536 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:08:18,114 INFO  [main] (Log4j.java:14) - Screnshot taken: target//screenshots//signOut_link_notFound_2018.08.26.22.08.17.png
+2018-08-26 22:08:18,114 WARN  [main] (Log4j.java:20) - No user is presently logged in
+2018-08-26 22:08:18,130 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:08:18,146 INFO  [main] (Log4j.java:14) - Kids DVDs - Avactis Demo Store
+2018-08-26 22:08:18,162 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Kids DVDs - Avactis Demo Store
+2018-08-26 22:08:21,201 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:08:21,218 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:08:24,418 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:08:24,597 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:08:24,605 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:08:24,610 INFO  [main] (Log4j.java:14) - More Flag = 'N' found
+2018-08-26 22:08:29,147 INFO  [main] (Log4j.java:14) - Expected cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 22:08:29,150 INFO  [main] (Log4j.java:14) - Expected cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 22:09:22,974 ERROR [main] (Log4j.java:27) - The name of the testcase failed is :testProductPurchase
+2018-08-26 22:09:23,299 WARN  [main] (Log4j.java:20) - The name of the testcase skipped is :testOrderVerficationByAdminUser
+2018-08-26 22:10:25,304 INFO  [main] (Log4j.java:14) - Test will run on: CH
+2018-08-26 22:10:29,553 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 22:10:29,570 INFO  [main] (Log4j.java:14) - Key: ADMIN_URL : Value: http://localhost/avactis/avactis-system/admin/
+2018-08-26 22:10:29,752 INFO  [main] (Log4j.java:14) - 
+2018-08-26 22:10:30,952 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - 
+2018-08-26 22:10:53,787 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:10:53,804 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:10:56,437 INFO  [main] (Log4j.java:14) - Screnshot taken: target//screenshots//signOut_link_notFound_2018.08.26.22.10.55.png
+2018-08-26 22:10:56,454 WARN  [main] (Log4j.java:20) - No user is presently logged in
+2018-08-26 22:10:56,533 INFO  [main] (Log4j.java:14) - About to click on signIn
+2018-08-26 22:10:59,362 INFO  [main] (Log4j.java:14) - Key: STORE_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 22:10:59,362 INFO  [main] (Log4j.java:14) - Key: STORE_PASSWORD : Value: qwerty123
+2018-08-26 22:11:15,704 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testStoreSignIn
+2018-08-26 22:11:15,722 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_PATH : Value: F:\Studies\MavenWorkspace\AvactisShoppingSite\src\test\resources\data\
+2018-08-26 22:11:15,737 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_XML : Value: AvactisTestData.xml
+2018-08-26 22:11:15,769 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:11:18,937 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:11:19,109 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:11:19,123 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:11:19,133 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:11:19,143 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:11:19,174 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 22:11:19,205 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 22:11:23,068 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:11:23,080 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:11:26,258 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:11:26,407 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:11:26,413 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:11:26,422 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:11:26,438 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:11:26,446 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 22:11:26,461 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 22:11:30,439 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:11:30,452 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:11:33,741 INFO  [main] (Log4j.java:14) - Page Title: Kids DVDs - Avactis Demo Store
+2018-08-26 22:11:33,875 INFO  [main] (Log4j.java:14) - 90 product got added to cart
+2018-08-26 22:11:33,882 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:11:33,888 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:11:33,916 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:11:33,929 INFO  [main] (Log4j.java:14) - Kids DVDs - Avactis Demo Store
+2018-08-26 22:11:33,949 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Kids DVDs - Avactis Demo Store
+2018-08-26 22:11:38,039 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:11:38,039 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:11:41,255 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:11:41,394 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:11:41,407 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:11:41,413 INFO  [main] (Log4j.java:14) - More Flag = 'N' found
+2018-08-26 22:11:45,898 INFO  [main] (Log4j.java:14) - Expected cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 22:11:45,898 INFO  [main] (Log4j.java:14) - Expected cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 22:11:52,357 INFO  [main] (Log4j.java:14) - Shipping method 'Delivery on Next Business Day' is selected
+2018-08-26 22:11:54,729 INFO  [main] (Log4j.java:14) - Actual cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 22:11:54,729 INFO  [main] (Log4j.java:14) - Actual cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 22:11:54,729 INFO  [main] (Log4j.java:14) - Order got placed succesfully as comparison result is matched
+2018-08-26 22:12:03,229 INFO  [main] (Log4j.java:14) - Place order button is clicked
+2018-08-26 22:12:03,298 INFO  [main] (Log4j.java:14) - Order is placed successfully: 00087
+2018-08-26 22:12:03,314 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:12:03,329 INFO  [main] (Log4j.java:14) - Key: ORDER_ID : Value: 00087
+2018-08-26 22:12:03,345 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Avactis Demo Store
+2018-08-26 22:12:05,333 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Shopping Cart
+2018-08-26 22:12:05,355 INFO  [main] (Log4j.java:14) - Key: ADMIN_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 22:12:05,364 INFO  [main] (Log4j.java:14) - Key: ADMIN_PASSWORD : Value: qwerty123
+2018-08-26 22:12:28,586 INFO  [main] (Log4j.java:14) - Order Id found in Admin: 00087
+2018-08-26 22:12:33,405 INFO  [main] (Log4j.java:14) - Admin user sucessfully logged out
+2018-08-26 22:12:33,423 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testOrderVerficationByAdminUser
+2018-08-26 22:44:24,289 INFO  [main] (Log4j.java:14) - Test will run on: CH
+2018-08-26 22:44:30,094 INFO  [main] (Log4j.java:14) - Key: STORE_URL : Value: http://localhost/avactis/
+2018-08-26 22:44:30,142 INFO  [main] (Log4j.java:14) - Key: ADMIN_URL : Value: http://localhost/avactis/avactis-system/admin/
+2018-08-26 22:44:30,281 INFO  [main] (Log4j.java:14) - 
+2018-08-26 22:44:31,437 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - 
+2018-08-26 22:44:56,418 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:44:56,447 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:44:59,018 INFO  [main] (Log4j.java:14) - Screnshot taken: target//screenshots//signOut_link_notFound_2018.08.26.22.44.58.png
+2018-08-26 22:44:59,028 WARN  [main] (Log4j.java:20) - No user is presently logged in
+2018-08-26 22:44:59,110 INFO  [main] (Log4j.java:14) - About to click on signIn
+2018-08-26 22:45:01,696 INFO  [main] (Log4j.java:14) - Key: STORE_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 22:45:01,706 INFO  [main] (Log4j.java:14) - Key: STORE_PASSWORD : Value: qwerty123
+2018-08-26 22:45:18,709 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testStoreSignIn
+2018-08-26 22:45:18,963 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_PATH : Value: F:\Studies\MavenWorkspace\AvactisShoppingSite\src\test\resources\data\
+2018-08-26 22:45:18,991 INFO  [main] (Log4j.java:14) - Key: DATA_FILE_XML : Value: AvactisTestData.xml
+2018-08-26 22:45:19,035 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:45:22,503 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:45:22,652 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:45:22,664 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:45:22,673 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:45:22,681 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:45:22,709 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 22:45:22,730 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 22:45:26,737 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:45:26,753 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:45:29,942 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:45:30,079 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:45:30,085 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:45:30,091 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:45:30,103 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:45:30,126 INFO  [main] (Log4j.java:14) - Classic Films - Avactis Demo Store
+2018-08-26 22:45:30,143 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Classic Films - Avactis Demo Store
+2018-08-26 22:45:34,414 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:45:34,424 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:45:39,661 INFO  [main] (Log4j.java:14) - Page Title: Kids DVDs - Avactis Demo Store
+2018-08-26 22:45:39,800 INFO  [main] (Log4j.java:14) - 90 product got added to cart
+2018-08-26 22:45:39,809 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:45:39,827 WARN  [main] (Log4j.java:20) - More Flag = 'Y' found, Looking out for Flag = N
+2018-08-26 22:45:39,833 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:45:39,862 INFO  [main] (Log4j.java:14) - Kids DVDs - Avactis Demo Store
+2018-08-26 22:45:39,883 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Kids DVDs - Avactis Demo Store
+2018-08-26 22:45:44,287 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Demo Store
+2018-08-26 22:45:44,301 INFO  [main] (Log4j.java:14) - Avactis Demo Store
+2018-08-26 22:45:49,490 INFO  [main] (Log4j.java:14) - Page Title: Classic Films - Avactis Demo Store
+2018-08-26 22:45:49,633 INFO  [main] (Log4j.java:14) - 108 product got added to cart
+2018-08-26 22:45:49,640 INFO  [main] (Log4j.java:14) - Add To Cart Is Successful
+2018-08-26 22:45:49,646 INFO  [main] (Log4j.java:14) - More Flag = 'N' found
+2018-08-26 22:45:54,416 INFO  [main] (Log4j.java:14) - Expected cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 22:45:54,420 INFO  [main] (Log4j.java:14) - Expected cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 22:46:03,788 INFO  [main] (Log4j.java:14) - Shipping method 'Delivery on Next Business Day' is selected
+2018-08-26 22:46:06,093 INFO  [main] (Log4j.java:14) - Actual cart details: [Forbidden Planet, 3, $48.59, $145.77]
+2018-08-26 22:46:06,098 INFO  [main] (Log4j.java:14) - Actual cart details: [Up, 1, $23.99, $23.99]
+2018-08-26 22:46:06,104 INFO  [main] (Log4j.java:14) - Order got placed succesfully as comparison result is matched
+2018-08-26 22:46:10,751 INFO  [main] (Log4j.java:14) - Place order button is clicked
+2018-08-26 22:46:15,577 INFO  [main] (Log4j.java:14) - Order is placed successfully: 00088
+2018-08-26 22:46:15,586 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testProductPurchase
+2018-08-26 22:46:15,603 INFO  [main] (Log4j.java:14) - Key: ORDER_ID : Value: 00088
+2018-08-26 22:46:15,621 INFO  [main] (Log4j.java:14) - Inside beforeNavigateTo - Avactis Demo Store
+2018-08-26 22:46:18,330 INFO  [main] (Log4j.java:14) - Inside afterNavigateTo - Avactis Shopping Cart
+2018-08-26 22:46:18,350 INFO  [main] (Log4j.java:14) - Key: ADMIN_USERNAME : Value: abhijitpaul_02@yahoo.com
+2018-08-26 22:46:18,356 INFO  [main] (Log4j.java:14) - Key: ADMIN_PASSWORD : Value: qwerty123
+2018-08-26 22:46:44,507 INFO  [main] (Log4j.java:14) - Order Id found in Admin: 00088
+2018-08-26 22:46:51,636 INFO  [main] (Log4j.java:14) - Admin user sucessfully logged out
+2018-08-26 22:46:51,645 INFO  [main] (Log4j.java:14) - The name of the testcase passed is :testOrderVerficationByAdminUser
